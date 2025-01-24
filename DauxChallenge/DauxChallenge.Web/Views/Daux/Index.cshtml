@@ -1,0 +1,47 @@
+﻿@model DauxChallenge.Web.Models.UserInputModel
+@using (Html.BeginForm("Index", "Daux", FormMethod.Post, new { @class = "needs-validation", novalidate = "novalidate" }))
+{
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow-lg">
+                    <div class="card-header bg-primary text-white">
+                        <h2 class="card-title text-center">DauxChallenge</h2>
+                    </div>
+                    <div class="card-body">
+                        <div class="form-group mb-3">
+                            <label for="nombre">Nombre</label>
+                            @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control", placeholder = "Ingrese su nombre", required = "required", id = "nombre" })
+                            <div class="invalid-feedback">
+                                Por favor, ingrese su nombre.
+                            </div>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label for="apellido">Apellido</label>
+                            @Html.TextBoxFor(m => m.Apellido, new { @class = "form-control", placeholder = "Ingrese su apellido", required = "required", id = "apellido" })
+                            <div class="invalid-feedback">
+                                Por favor, ingrese su apellido.
+                            </div>
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary btn-lg">Enviar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@if (ViewBag.Response != null)
+{
+    <div class="container mt-3">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="alert alert-success fade show" role="alert">
+                    <strong>Respuesta de la API:</strong> @ViewBag.Response
+                </div>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\bin\Debug\net8.0\DauxChallenge.Services.deps.json
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\bin\Debug\net8.0\DauxChallenge.Services.dll
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\bin\Debug\net8.0\DauxChallenge.Services.pdb
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.AssemblyInfo.cs
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.dll
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\refint\DauxChallenge.Services.dll
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.pdb
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\ref\DauxChallenge.Services.dll
+C:\Users\kevin\source\repos\DauxChallenge\DauxChallenge.Services\obj\Debug\net8.0\DauxChallenge.Services.csproj.AssemblyReference.cache

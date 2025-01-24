@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D17670-7B1A-446B-9E77-00B3452AA821}|DauxChallenge.Services\\DauxChallenge.Services.csproj|c:\\users\\kevin\\source\\repos\\dauxchallenge\\dauxchallenge.services\\encryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D17670-7B1A-446B-9E77-00B3452AA821}|DauxChallenge.Services\\DauxChallenge.Services.csproj|solutionrelative:dauxchallenge.services\\encryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D17670-7B1A-446B-9E77-00B3452AA821}|DauxChallenge.Services\\DauxChallenge.Services.csproj|c:\\users\\kevin\\source\\repos\\dauxchallenge\\dauxchallenge.services\\iencryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D17670-7B1A-446B-9E77-00B3452AA821}|DauxChallenge.Services\\DauxChallenge.Services.csproj|solutionrelative:dauxchallenge.services\\iencryptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA89EFFC-0F48-4A2B-A0AB-0269238492BE}|DauxChallenge.Tests\\DauxChallenge.Tests.csproj|c:\\users\\kevin\\source\\repos\\dauxchallenge\\dauxchallenge.tests\\encryptservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA89EFFC-0F48-4A2B-A0AB-0269238492BE}|DauxChallenge.Tests\\DauxChallenge.Tests.csproj|solutionrelative:dauxchallenge.tests\\encryptservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15276BEF-398B-41D8-98BA-F8154346A976}|DauxChallenge.Web\\DauxChallenge.Web.csproj|c:\\users\\kevin\\source\\repos\\dauxchallenge\\dauxchallenge.web\\controllers\\dauxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15276BEF-398B-41D8-98BA-F8154346A976}|DauxChallenge.Web\\DauxChallenge.Web.csproj|solutionrelative:dauxchallenge.web\\controllers\\dauxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEncryptService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Services\\IEncryptService.cs",
+              "RelativeDocumentMoniker": "DauxChallenge.Services\\IEncryptService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Services\\IEncryptService.cs",
+              "RelativeToolTip": "DauxChallenge.Services\\IEncryptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:22:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Tests\\EncryptServiceTest.cs",
+              "RelativeDocumentMoniker": "DauxChallenge.Tests\\EncryptServiceTest.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Tests\\EncryptServiceTest.cs",
+              "RelativeToolTip": "DauxChallenge.Tests\\EncryptServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:20:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Services\\EncryptService.cs",
+              "RelativeDocumentMoniker": "DauxChallenge.Services\\EncryptService.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Services\\EncryptService.cs",
+              "RelativeToolTip": "DauxChallenge.Services\\EncryptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:18:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DauxController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Web\\Controllers\\DauxController.cs",
+              "RelativeDocumentMoniker": "DauxChallenge.Web\\Controllers\\DauxController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Web\\Controllers\\DauxController.cs",
+              "RelativeToolTip": "DauxChallenge.Web\\Controllers\\DauxController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:17:58.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

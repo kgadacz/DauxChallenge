@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByjoR/DyAzNufe4AuzTkFtmMihcGG40wwUYxjpBCir2WxG6vwukEqbk73VrNI8wgS+sm3ItesdfI3UScD8Tnpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\source\\repos\\DauxChallenge\\DauxChallenge.Web\\DauxChallenge.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
